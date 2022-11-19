@@ -1,2 +1,4 @@
 .DS_Store
 /.DS_Store
+notebooks/__pycache__/keys.cpython-39.pyc
+notebooks/keys.py
